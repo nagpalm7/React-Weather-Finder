@@ -1,4 +1,3 @@
 Weather Finder App 
-     -Mohit
-     create on 
+     created on 
       -Reactjs
