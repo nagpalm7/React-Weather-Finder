@@ -1,0 +1,31 @@
+.form-control{
+  margin-left: 4px;
+  border-radius: 2px;
+  color:grey;
+}
+
+.btn  {
+  margin-left: 4px;
+  border-radius: 2px;
+
+}
+
+.btn-default{
+  color:blue;
+}
+
+form{
+  margin-top:80px;
+}
+
+.Weather{
+  color:white;
+  margin-left: 4px;
+  font-size: 24px;
+  font-family: monospace;
+}
+.title{
+  margin-top: 80px;
+  color:white;
+  font-family:fantasy;
+}
